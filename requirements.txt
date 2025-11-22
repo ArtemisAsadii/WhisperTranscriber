@@ -1,0 +1,6 @@
+customtkinter
+openai-whisper
+torch
+python-docx
+pydub
+tqdm
