@@ -34,15 +34,3 @@ Whisper supports multiple languages for speech-to-text transcription. Currently,
 - Korean  
 - Arabic  
 
-> Note: Accuracy may vary depending on the language and audio quality.
-
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository_url>
-cd WhisperTranscriber
-```
